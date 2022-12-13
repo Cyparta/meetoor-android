@@ -1,0 +1,8 @@
+<resources>
+    <color name="white">#FFF</color>
+
+    <item name="green" type="color">#267b77</item>
+    <integer-array name="androidcolors">
+        <item>@color/green</item>
+    </integer-array>
+</resources>

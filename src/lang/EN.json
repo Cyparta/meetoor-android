@@ -1,0 +1,809 @@
+{
+  "viewHeadData": [
+    "home",
+    "join a meeting",
+    "contact us",
+    "sign in",
+    "sign up"
+  ],
+  "viewData": {
+    "viewInfo": {
+      "title": "connect easily with meetoor",
+      "subTitle": "Create your own team, or join others' teams.\nCreate your relationships with others, easily and safely.",
+      "hrefName": "sign up"
+    },
+    "MeetInfo": {
+      "title": "you can join meeting now",
+      "subTitle": "Never miss your meeting time, attend your meetings from anywhere, anytime.",
+      "hrefName": "join a meeting"
+    },
+    "secureInfo": {
+      "title": "Create your own safe environment",
+      "subTitle": "We’ve collected best practices for people working from home to help keep up good online security and avoid preventable breaches. to give an unrivalled level of service that always delivers satisfaction to customers."
+    },
+    "downloadInfo": {
+      "title": "download our app now!",
+      "subTitle": "download the meetoor application now for your android phone,\n quickly and easily, do a lot of work with the click of a button",
+      "head": "Continue browsing anyway!",
+      "error": "We do not recommend the use of Meetoor with this browser!"
+    }
+  },
+  "featureData": {
+    "head": "features",
+    "info": "Never miss your meeting time, attend your meetings from anywhere, anytime.",
+    "items": [
+      {
+        "img": "/img/home/team.svg",
+        "imgback": "/img/home/teamback.svg",
+        "name": "team Meeting",
+        "subject": "we support team work ,score your goals with your team and achieve your ampitions."
+      },
+      {
+        "img": "/img/home/chat.png",
+        "imgback": "/img/home/chatback.svg",
+        "name": "Real Time Chat",
+        "subject": "Ease of communication with your friends and your business team."
+      },
+      {
+        "img": "/img/home/share.svg",
+        "imgback": "/img/home/shareback.svg",
+        "name": "Whiteboard meeting",
+        "subject": "explan your ideas using special advanced Board."
+      },
+      {
+        "img": "/img/home/room.svg",
+        "imgback": "/img/home/roomback.svg",
+        "name": "Room meeting",
+        "subject": "Attend your meeting using private or public room features."
+      }
+    ]
+  },
+  "chooseData": {
+    "head": "why choose meetoor?",
+    "info": "you can use it from anywhere! meetoor has been created in such a way that it is always accessible without having to install any extra software. From your workplace, at school or at home, as long as you have an internet connection you can use it.",
+    "items": [
+      {
+        "img": "/img/home/esey.svg",
+        "name": "easy",
+        "subject": "Full ease in dealing and creating your own team."
+      },
+      {
+        "img": "/img/home/free.svg",
+        "name": "free",
+        "subject": "did I already mention that it is FREE to use? Yes I did!"
+      },
+      {
+        "img": "/img/home/speed.svg",
+        "name": "speed",
+        "subject": "is built with modern technologies and is backed by high performance servers."
+      },
+      {
+        "img": "/img/home/secure.svg",
+        "name": "secure",
+        "subject": "we follow and enforce Security Best Practices for all our clients. We got your back!"
+      }
+    ]
+  },
+  "footerData": {
+    "features": {
+      "head": "features",
+      "items": [
+        "Team Meeting",
+        "Real Time Chat",
+        "Whiteboard Meeting",
+        "Room Meeting"
+      ]
+    },
+    "services": {
+      "head": "Why us",
+      "items": ["Easy to use", "no cost", "high performance", "Secure"]
+    },
+    "follow": {
+      "head": "follow us",
+      "items": [
+        {
+          "name": "youtube",
+          "icon": "/img/footer/youtube.svg",
+          "href": "https://www.youtube.com/channel/UC3Bp_FO1MbUvQJXtpIi99Kg"
+        },
+        {
+          "name": "twitter",
+          "icon": "/img/footer/twitter.svg",
+          "href": "https://twitter.com/meetoor_tm"
+        },
+        {
+          "name": "facebook",
+          "icon": "/img/footer/facebook.svg",
+          "href": "https://www.facebook.com/meetoor/"
+        }
+      ]
+    },
+    "aboutus": {
+      "head": "about us",
+      "info": "A company that allows users and business owners to communicate with each other Easily, quickly and safely.",
+      "links": ["contact us", "Privacy Policy"]
+    }
+  },
+  "joinmeet": {
+    "head1": {
+      "sub1": "join a ",
+      "sub2": "meeting"
+    },
+    "info": "No login required, you can join immediately",
+    "place": "add room id to join",
+    "head2": {
+      "sub1": "sign up",
+      "sub2": " now for more!"
+    }
+  },
+  "contactus": {
+    "msg1": "wait sending",
+    "msg2": "ok sent thank you",
+    "head": {
+      "sub1": "Contact us for ",
+      "sub2": "support"
+    },
+    "infos": [
+      {
+        "icon": "fas fa-envelope",
+        "name": "email",
+        "value": "support@meetoor.com"
+      },
+      {
+        "icon": "fas fa-mobile-alt",
+        "name": "phone",
+        "value": "+201096172206\n+201100630555\n+201157601798"
+      },
+      {
+        "icon": "fas fa-map-marker-alt",
+        "name": "address",
+        "value": "El Gharbeya - Egypt"
+      }
+    ],
+    "place": "add room id to join",
+    "button": "search",
+    "head2": {
+      "sub1": "sign in",
+      "sub2": " now for more!"
+    }
+  },
+  "signinData": {
+    "head": "login to your account!",
+    "save": "save this account",
+    "forget": "forget password",
+    "yourAcc": "your meetoor accounts",
+    "noAccYet": "Don't have an account yet? ",
+    "noAcc": "You do not have accounts saved"
+  },
+  "signupData": {
+    "head": "sign up to create one!",
+    "haveAcc": "Do you have an account? ",
+    "recaptcha": "please check recaptcha to signup!!",
+    "validation": {
+      "level": ["weak", "medium", "strong", "very strong"],
+      "lowercase": "one Lowercase",
+      "number": "one Number",
+      "uppercase": "one Uppercase",
+      "char8": "8 characters",
+      "none": "none"
+    }
+  },
+  "forgetData": {
+    "head": "forget your password?",
+    "info": "enter your email adress associated with your account and we will email you a link to reset your password",
+    "done": "Check your mail. We have sent you a message"
+  },
+  "resetpassData": {
+    "head": "reset your password?",
+    "done": "Password changed successfully"
+  },
+  "liveData": {
+    "member": {
+      "isInvited": "Invitation has been sent",
+      "invite": "Invite to speak",
+      "muteMic": "Mute the microphone",
+      "makeListener": "Move to listeners",
+      "makeAdmin": "Enable as admin",
+      "makeMember": "Remove from admins",
+      "setAsAdmin": "You have been set as admin",
+      "setNoAdmin": "canceled as admin",
+      "kickOut": "Delete from room",
+      "kickedOut": "User has been deleted",
+      "endRoom": "End room",
+      "asSpeaker": "You are now speaking, press to activate the microphone",
+      "asLestener": "Now you are a listener, you can't talk"
+    },
+    "control": {
+      "noEndRoom": "You can't finish the room while the owner is there",
+      "noCtrAdmin": "You can't control the owner of the room",
+      "lastAdmin": "There's no other admin\n Are you sure to finish the room",
+      "onChat": "The admin has disabled the chat",
+      "offChat": "The admin has activated the chat",
+      "onAsked": "The admin has activated the requests",
+      "offAsked": "The admin has disabled the requests",
+      "onHeader": "The admin has changed the room header",
+      "handleMicAdmin": {
+        "stop1": "Your mic has been deactivated by the admin!",
+        "stop2": "You cannot share your voice with others"
+      }
+    },
+    "admin": {
+      "info": "Admin dashboard",
+      "askJoin": "ask me before member join",
+      "muteMics": "mute mic's to all",
+      "muteCams": "mute cam's to all",
+      "enableBoard": "enable whiteboard from member",
+      "enableAsked": "enable requests from members",
+      "enableShare": "enable share screen from member",
+      "enableChat": "enable chat from member",
+      "autotrack": "Automatic whiteboard tracking",
+      "autoflip": "Automatic screen flip",
+      "blocknotify": "Block all notifications outside the room",
+      "roomchat": "Disable room chat"
+    },
+    "room": {
+      "invited": "Invite you to speak",
+      "mutedMicByAdmin": "The admin has muted your microphone",
+      "myControl": "Room settings",
+      "closeRoom": "close this room",
+      "cancelShare": "cancel your screen share",
+      "createRoom": "You have created a room",
+      "reconnect": "You have reconnected",
+      "joinRoom": "You have joined the room",
+      "errorUser": "Has an error occurred",
+      "leaved": "has left the room",
+      "joined": "had joined the room",
+      "nowAdmin": "You are now admin of this room",
+      "nowMember": "You are now member in this room",
+      "initialize": "wait, The room is initialization!",
+      "copy0": "Share room link",
+      "copy1": "Sharing room ID",
+      "copy3": "copy room id to share with other",
+      "switch": "Switch windows",
+      "promptAdmin": "You are the owner of this room,\n You should choose another admin,\n If you go, the room will be destroyed!\n Are you sure?.",
+      "promptMember": "If you go, the room will be destroyed!\n Are you sure?."
+    },
+    "create": {
+      "name": "your name",
+      "info1": "create room",
+      "info2": "join room",
+      "private": "Make this room private",
+      "roomId": "room id or write one",
+      "max": "max participants (optional)",
+      "password": "room password (optional)",
+      "password2": "room password",
+      "header": "The address of the room",
+      "justAudio": "Make this room sound only",
+      "isSound": "Only sound room",
+      "isVideo": "An audio and video room",
+      "roomDate": "The room begins on a date",
+      "isPrivate": "privet room",
+      "isPublic": "Public room"
+    }
+  },
+  "tabsData": {
+    "home": "home",
+    "trends": "Daily Top Trends",
+    "profile": "profile",
+    "chats": "chats",
+    "friends": "friends",
+    "allFriends": "all friends",
+    "teams": "teams",
+    "createTeam": "create team",
+    "myTeams": "my teams",
+    "joinTeams": "Teams inside",
+    "rooms": "rooms",
+    "createRoom": "create room",
+    "currentRoom": "Active rooms",
+    "scheduledRoom": "Create a scheduled room",
+    "scheduledRooms": "scheduled rooms",
+    "suggestions": "suggestions",
+    "teamSuggest": "teams suggestion",
+    "friendSuggest": "from the public",
+    "pending": "Pending requests",
+    "received": "Requests received",
+    "teamRequest": "teams requests",
+    "friendRequest": "friends requests",
+    "settings": "settings",
+    "balance": "balance",
+    "bans": "banned",
+    "savedPosts": "Saved posts",
+    "audioRoom": "Audio Room",
+    "videoRoom": "Video Room",
+    "videos": "Video Gallery",
+    "money": "Raffle and prizes"
+  },
+  "callData": {
+    "cancel": "cancel call",
+    "initialize": "initialization",
+    "calling": "calling",
+    "callyou": "call you",
+    "noshare": "You cannot share the screen from the phone",
+    "nocall": "You cannot calling, because you may be on another call or another room",
+    "notAvailable": "Not available now",
+    "busy": "maybe busy right now",
+    "callEnded": "call ended",
+    "notAnswer": "not answered",
+    "you": "you",
+    "calledYou": "called you",
+    "youCalled": "you called",
+    "voiceCall": "voice call",
+    "endCall": "end call",
+    "endRoom": "end room"
+  },
+  "notifyData": {
+    "noyet": "There are no notifications yet!",
+    "newPost": "added a new post",
+    "mentionPost": "Referred to you in a post",
+    "mentionComment": "Referred to you in a comment",
+    "mentionReply": "Referred to you in a reply",
+    "newpost": "",
+    "newpost-team": "to your team",
+    "like": "left a like",
+    "onClonedPost": "on a post you cloned",
+    "comment": "Put a comment",
+    "askshare": "is asking you to share his screen",
+    "reply": "Put a reply",
+    "asklive": "wants to join you in your room",
+    "actfriend": "you are now friends",
+    "askfriend": "sent you a friend request",
+    "askteam": "asked to join in",
+    "actteam": "You are now a member of a team",
+    "removeteam": "deleted this team",
+    "forRoom": "started a live room in",
+    "onPost": "on your post",
+    "onApost": "on a post you comment on",
+    "onComment": "on your comment",
+    "onAcomment": "on a comment you replied on",
+    "scheduled": "You have a room scheduled",
+    "scheduledStart": "start in",
+    "clonePost": "cloned your post",
+    "clonepost": "",
+    "clonedPost": "cloned a post from",
+    "onFollow": "follows you",
+    "likeStory": "on your status"
+  },
+  "popmoreData": {
+    "delchat": {
+      "head": "remove this chat",
+      "sub": "It will be deleted from your chats"
+    },
+    "editpost": {
+      "head": "edit this post",
+      "sub": "This post will be modified immediately for your friends"
+    },
+    "delpost": {
+      "head": "remove this post",
+      "sub": "It will be deleted from your posts and others' posts"
+    },
+    "delmessage": {
+      "head": "delete this message",
+      "sub": "It will be deleted from this chat"
+    },
+    "hidepost": {
+      "head": "hide this post",
+      "sub": "I don't want to see this post again"
+    },
+    "savepost": {
+      "head": "save this post",
+      "sub": "This post will be saved so you can see it later"
+    },
+    "pinnedPost": {
+      "head": "pin this post",
+      "sub": "This post will be pinned to the top of the page"
+    },
+    "unsavepost": "Unsave this post",
+    "unPinPost": "Unpin the post",
+    "copylink": "Copy this link",
+    "shareWithOther": "Share your post with other apps",
+    "blockUser": "Ban this account",
+    "deleteUser": "Cancel friendship",
+    "editComment": {
+      "head": "edit this comment",
+      "sub": "This comment will be modified immediately"
+    },
+    "delComment": {
+      "head": "remove this comment",
+      "sub": "It will be deleted from your comments and others' comments"
+    },
+    "replyMessage": "Reply to this message",
+    "reportpost": "Report the post",
+    "profileLinks": {
+      "profile": "Copy the link to this account",
+      "anonychat": "copy the link to the anonymous messages"
+    }
+  },
+  "teamsData": {
+    "teamName": "team name",
+    "interest": "Team interests",
+    "corporation": "corporation",
+    "discription": "Describe your team",
+    "editTeam": "edit team",
+    "editteam": "editing a team",
+    "createteam": "Creating a team"
+  },
+  "settings": {
+    "sounds": "sound system",
+    "call": "when new call comein",
+    "newMsg": "when new message comein",
+    "newNotify": "when new notification comein",
+    "addLike": "when you add like in post or comment",
+    "addComm": "when you add new comment or reply or message",
+    "changeStick": "change sticker",
+    "changeLang": "change language",
+    "changeUname": "change username",
+    "newUname": "add your new username",
+    "changeEmail": "change email",
+    "newEmail": "add your new email",
+    "changePass": "change password",
+    "newPass": "add your new password",
+    "deleteAcc": "delete Account meetoor",
+    "oldPass": "Add your old password",
+    "yourPass": "Add your password"
+  },
+  "errors": {
+    "mainError": "Something went wrong! Try after a few minutes",
+    "tokenReset": "token is wrong or expired",
+    "login": "The username, email, or password is wrong",
+    "formula": "This formula is not acceptable",
+    "sizeFile": "The file size should be less than",
+    "noCreateRoom": "You cannot create a room now, because you may be on another call or another room",
+    "noJoinRoom": "You cannot join to room now, because you may be on another call or another room",
+    "unused": "We do not recommend using this feature From Firefox Browser. Fix it soon!",
+    "nomic": "please connect your microphone",
+    "wrong": "Something went wrong",
+    "speednet": "Make sure your internet speed is good",
+    "password": "Wrong password, try again",
+    "username": "Username already exists",
+    "email": "The email is already registered",
+    "moreSeven": "The number of files should not be more than 7",
+    "noInternet": "You are not connected to the internet",
+    "deleteAccount": "We would like to inform you when the account is deleted, this process takes three days. So you can review your decision if you like. Or maybe someone stole your account and deleted it, this enables you to report to get your account back"
+  },
+  "buttons": {
+    "home": "timeline",
+    "explore": "explore more",
+    "pressHere": "Press here",
+    "rateUs": "Rate us on the store",
+    "inviteFriends": "Invite your friends",
+    "add": "add",
+    "invite": "invite",
+    "next": "next",
+    "change": "change",
+    "cancel": "cancel",
+    "close": "close",
+    "search": "search",
+    "contact": "send now",
+    "signin": "sign in",
+    "signup": "sign up",
+    "okay": "okay",
+    "send": "send",
+    "resend": "resend",
+    "again": "try again",
+    "reset": "reset",
+    "continue": "continue",
+    "back": "back",
+    "loading": "loading",
+    "upload": "upload",
+    "choose": "choose",
+    "create": "create",
+    "join": "join",
+    "closeRoom": "close room",
+    "reconnect": "reconect",
+    "online": "online",
+    "offline": "offline",
+    "chat": "chat",
+    "call": "call",
+    "delete": "delete",
+    "joinTeam": "join the team",
+    "addFriend": "add friend",
+    "openTeam": "open team",
+    "accept": "accept",
+    "decline": "decline",
+    "reply": "reply",
+    "copy": "copy",
+    "post": "post",
+    "enableTeam": "enable teams",
+    "enablePepole": "enable people",
+    "darkMode": "dark mode",
+    "accSwitch": "account switch",
+    "editProfile": "edit profile",
+    "logout": "logout",
+    "myStatus": "Activity status",
+    "posts": "posts",
+    "live": "live",
+    "admin": "admin",
+    "cancelRequest": "cancel your requset",
+    "joinToTeam": "join to this team",
+    "thisteam": "this team",
+    "member": "members",
+    "leaveTeam": "leave this team",
+    "delTeam": "delete your team",
+    "save": "save",
+    "saved": "saved",
+    "joinRoom": "join in this room",
+    "information": "personal information",
+    "male": "male",
+    "female": "female",
+    "skipnow": "skip now!",
+    "confirm": "confirm",
+    "showPost": "Show the post",
+    "unBlock": "Cancel ban",
+    "follow": "follow",
+    "unFollow": "unfollow",
+    "follower": "This account is following you",
+    "following": "following",
+    "hasSent": "has been sent",
+    "yes": "yes",
+    "no": "no",
+    "sendNote": "Send your opinion anonymously",
+    "anonychatSetting": "Allow anonymous messages",
+    "prayerSetting": "Allow display of prayer times",
+    "cancelDelete": "Undelete the account"
+  },
+  "badges": {
+    "justMe": "just me",
+    "sent": "sent",
+    "recived": "received",
+    "new": "new",
+    "modified": "modified",
+    "poster": "post",
+    "comment": "comment",
+    "editpost": "edit post",
+    "clonepost": "Copy the post",
+    "editcomment": "edit comment",
+    "createpost": "create post",
+    "createteam": "create team",
+    "release": "release",
+    "seener": "Chat viewers",
+    "chooseStick": "choose sticker",
+    "chooseLang": "choose the language",
+    "joindAt": "Joined At",
+    "bornIn": "Born In",
+    "update": "update",
+    "author": "author",
+    "authorComment": "comment author",
+    "followers": "followers",
+    "following": "followings",
+    "public": "public",
+    "friends": "friends",
+    "all": "All",
+    "addStatus": "add status",
+    "statusView": "Status Viewers",
+    "addText": "Click to write",
+    "yourContacts": "your contacts",
+    "peopleSuggest": "suggested people",
+    "yourFiles": "your files",
+    "likesOnPost": "reactions to the post",
+    "likesOnComment": "reactions to the comment",
+    "replysOnComment": "Replies to the comment",
+    "shareToAll": "share with all",
+    "anonyMsg": "anony message"
+  },
+  "messages": {
+    "invite": {
+      "name": "Hello I am ",
+      "msg1": "I am using the Meetoor app",
+      "msg2": "It's cool and easy",
+      "msg3": "Download it from the store"
+    },
+    "rooms": {
+      "roomEnded": "Room finished",
+      "wrongpass": "The password is incorrect!",
+      "noroom": "No room with this id",
+      "nanId": "Invalid room id",
+      "usedId": "This id is already taken",
+      "rejected": "Your request has been rejected",
+      "redirect2": "redirect to dashboard after 2 second",
+      "roomFull": "Sorry, this room is full",
+      "closed": "room is closed",
+      "kickOut": "You were kicked out of the room"
+    },
+    "welcomePost": {
+      "first": "Hi I'm",
+      "last": "\n#I'm_new_here 😀"
+    },
+    "youAnd": "you and",
+    "likeThisPost": "likes",
+    "likeThisComment": "reacted to this comment",
+    "reactWithPost": "Be the first to react",
+    "stillPending": "Your request is still pending",
+    "confirmData": "verify your data ...",
+    "confirmDone": "Your data has been verified",
+    "createAcc": "Your account has been created",
+    "sure": "Are you sure?",
+    "newmsg": "new message",
+    "nochatyet": "no message yet!",
+    "nopostyet": "no posts yet!",
+    "ableLikeComment": "To be able to like and comment, be a friend",
+    "overLimit": "You have exceeded your limit",
+    "writeNow": "someone is write now",
+    "noResult": "There are no results",
+    "and": "and",
+    "others": "others",
+    "of": "of",
+    "results": "results",
+    "noTeams": "no suggestion teams!",
+    "noFriends": "no friends suggestion!",
+    "noFriendsYet": "no friends yet!",
+    "noTeamsReq": "no requests teams!",
+    "noFriendsReq": "no requests friends!",
+    "noReceivedYet": "There are no requests yet",
+    "verifiedAcc": "Verified account",
+    "noRooms": "no rooms now!",
+    "verifiedFull": "This sign confirms that this person in Meetoor is the same person in the real world",
+    "newcomment": "new comment",
+    "newreply": "new reply",
+    "chatWelcome": "welcome in meetoor chat",
+    "chstChoose": "Choose a user to view",
+    "canotChat": "Can't chat to this person",
+    "upImage": "Choose your avatar",
+    "upLogo": "Choose your logo",
+    "complateSignup": "Please complete the rest of the information\n This improves your search and suggestions",
+    "updateApp": "There is a new update for the app.",
+    "getNewPosts": "Swipe from above to get new posts",
+    "updateEveryPosts": "It is updated every 3 minutes",
+    "fromNotices": "Posts from notification",
+    "cited": "Mentioned in",
+    "topPosts": "Most Popular Posts",
+    "copiedPost": "copied post",
+    "cloneDirect": "Copy the post directly to your page",
+    "clonedBefore": "It was copied before, and you can still use it again",
+    "cloneWithText": "Copy the post with text added",
+    "noPostAnyMore": "This post is not available anymore",
+    "mainPosts": "home",
+    "timeLine": "time line",
+    "blockUser": "This account is banned",
+    "deletedMsg": "message deleted",
+    "recordMsg": "Sent an audio recording",
+    "fileMsg": "Sent a file",
+    "storyMsg": {
+      "you": "You have responded to the status",
+      "other": "replied to your status"
+    },
+    "notGoogle": "If your device does not support Google services",
+    "savedPost": "This post has been saved",
+    "clone": "copy",
+    "fromTeam": "Post from your team",
+    "fromFriend": "Post from your friend",
+    "fromFollowed": "Post from your followings",
+    "followPopup": {
+      "one": "Follow or add some of the people proposed to you",
+      "two": "To show you their latest posts on your homepage"
+    },
+    "copied": "copied",
+    "deleted": "Deleted",
+    "hidden": "has been hidden",
+    "pinPost": "Pinned post",
+    "your_messages": "messages",
+    "ignore_msg": "anonymous",
+    "roomDescription": "Click to join this audio room",
+    "inviteTeam": "I invite you to join the team",
+    "huawei": "Manually download the update to Huawei"
+  },
+  "schema": {
+    "optional": "optional",
+    "required": "required",
+    "validPhone": "valid phone number",
+    "invalidPhone": "Invalid phone number",
+    "valid": {
+      "char8": "Must Contain 8 Characters at least",
+      "char7": "Must Contain 7 Characters at least",
+      "char5": "Must Contain 5 Characters at least",
+      "char3": "Must Contain 3 Characters at least",
+      "char2": "Must Contain 2 Characters at least",
+      "char1": "Must Contain 1 Character at least",
+      "email": "Invalid email address",
+      "char40": "Must be 40 characters or less",
+      "char250": "Must be 250 characters or less",
+      "space": "It should not contain a space.",
+      "special": "It should not contain a special characters.",
+      "password": "Please Enter your password",
+      "lowercase": "Must Contain one Lowercase.",
+      "number": "Must Contain one Number.",
+      "nohash": "It should not contain a hashtag."
+    }
+  },
+  "placeholder": {
+    "first": "first name",
+    "last": "last name",
+    "email": "your email",
+    "username": "username",
+    "emailOrUser": "username or email",
+    "password": "password",
+    "phone": "phone number (with country code)",
+    "yourPhone": "phone number",
+    "message": "your message...",
+    "addMsg": "add your message ...",
+    "uploadImg": "upload image...",
+    "finduser": "find member ...",
+    "roomId": "room id",
+    "maxParts": "max participants",
+    "addPost": "Post text, photo, video",
+    "addImgVideo": "Add image or video...",
+    "addImg": "Add image",
+    "addVideo": "Add video",
+    "addText": "add text",
+    "someThing": "type some thing...",
+    "posting": "posting ...",
+    "posted": "published",
+    "search": "Find a team, person, room, trend ...",
+    "searchDrop": "search here ...",
+    "writeHere": "write here ...",
+    "findFriend": "Find your friends ...",
+    "searchChat": "search in this chat ...",
+    "addComment": "add your comment ...",
+    "addReply": "add your reply ...",
+    "birthday": "your birthday",
+    "job": "your job",
+    "skill": "your skill",
+    "country": "your country",
+    "address": "your address",
+    "link": "your link",
+    "gender": "your gender",
+    "bio": "A short profile of you",
+    "postStatus": "post status",
+    "chooseStatus": "Choose a status to view",
+    "selectAll": "select all",
+    "listeners": "The Listeners",
+    "exit": "Press again to exit!",
+    "more": "....show more....",
+    "seenAt": "Showed at"
+  },
+  "balance": {
+    "likes": "Total likes",
+    "note1": "Likes for posts are calculated at the beginning of each month and then the balance will be transferred to you at the end of each month.\nEvery 1000 likes is worth $3",
+    "note2": "In order for the balance to be transferred at the end of each month, the total number of likes must not be less than 1000",
+    "note3": "This feature is available in certain months of the year and is announced by the platform administrator"
+  },
+  "reactIcon": {
+    "like": "Like",
+    "heart": "Support",
+    "love1": "Love",
+    "great": "great",
+    "laugh": "Funny",
+    "wow": "wow",
+    "sad": "sad",
+    "angry": "Angry"
+  },
+  "prize": {
+    "ending": "The contest is over and the result will be at",
+    "winner": "The winner",
+    "running": "The winner is being announced",
+    "mes1": "You can participate in the draw.",
+    "mes2": "subscribe to win with us",
+    "subscribe": "subscribe now",
+    "ticketid": "ticketid: "
+  },
+  "slaha": {
+    "1": "fajr",
+    "2": "dhuhr",
+    "3": "asr",
+    "4": "maghrib",
+    "5": "isha"
+  },
+  "days": {
+    "sat": "sat",
+    "sun": "sun",
+    "mon": "mon",
+    "tue": "tues",
+    "wed": "wed",
+    "thu": "thurs",
+    "fri": "fri"
+  },
+  "month_hijri": {
+    "01": "Muharram",
+    "02": "Safar",
+    "03": "Rabi Al-Awwal",
+    "04": "Rabi Al-Akhar",
+    "05": "Jumada Al-Awwal",
+    "06": "Jumada Al-Akhirah",
+    "07": "Rajab",
+    "08": "Shaban",
+    "09": "Ramadan",
+    "10": "Shawwal",
+    "11": "Dhul Qadah",
+    "12": "Dhul Hijjah"
+  },
+  "meetoorOwner": "meetoor owner"
+}

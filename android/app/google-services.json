@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901550612586",
+    "project_id": "meetoor-27",
+    "storage_bucket": "meetoor-27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901550612586:android:5b86c38b3e57735b2f6a13",
+        "android_client_info": {
+          "package_name": "com.meetoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901550612586-401vq1kijvddr7iolvkouasf1pi2jlv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX2DFmTxwYft3b1sacvOxYwONCspfKTc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901550612586-401vq1kijvddr7iolvkouasf1pi2jlv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
